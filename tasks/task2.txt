@@ -1,0 +1,76 @@
+<form>
+    
+        <label style="display:flex; justify-content:center; margin-bottom: 10px;">
+        
+        <h1>MADANAPALLE INSTITUTE OF TECHNOLOGY & SCIENCE </h1><br>
+        </label>
+    <label style="display:flex; justify-content:center; margin-bottom: 20px;">
+        
+        <h2>College Admission Form</h2><br>
+        </label>
+    </label>
+    <label style="display:flex; justify-content:center; margin-bottom: 20px; ">
+        
+         <b>Enter Your Name  : </b>
+        <input type="text" placeholder="name"><br>
+    </label>
+    <label style="display:flex; justify-content:center; margin-bottom: 20px;">
+       <b> Gender:</b>
+        <input type="radio" name="Gender">male
+        <input type="radio" name="Gender">Female
+    </label><br>
+    <label style="display:flex; justify-content:center; margin-bottom: 20px; ">
+        
+        <b>Enter Your mobile number  : </b>
+       <input type="phone" placeholder="mobile number"><br>
+   </label>
+   <label style="display:flex; justify-content:center; margin-bottom: 20px; ">
+        
+    <b>Enter father's mobile number  : </b>
+   <input type="phone" placeholder="mobile number"><br>
+</label>
+   <label style="display:flex; justify-content:center; margin-bottom: 20px; ">
+        
+    <b>Enter Your email  :</b>
+   <input type="text" placeholder="email"><br>
+</label>
+    </label>
+    
+        <br>
+        <label style="display:flex; justify-content:center;margin-bottom: 20px;">
+           <b> Upload aadhar card : </b>
+            <input type="file"></label><br>
+        </label>
+        <label style="display:flex; justify-content:center;margin-bottom: 20px;">
+            <b> Upload 10th memo card : </b>
+             <input type="file"></label><br>
+         </label>
+         <label  style="display:flex; justify-content:center;margin-bottom: 20px;">
+           <b> percentage in inter : </b>
+           <input type="number" placeholder="in percentageonly" >
+         </label>
+        <label style="display:flex; justify-content:center;margin-bottom: 20px;">
+            <b>Select Department : </b><br>
+            <select>
+                <option>CSE</option>
+                <option>CSD</option>
+                <option>CST</option>
+                <option>CAI</option>
+                <option>ECE</option>
+                <option>EEE</option>
+                <option>Civil</option>
+                <option>Mechanical</option>
+    
+            </select>
+    </label><br>
+
+    <button style=" background-color: green;  border:none; margin-left: 550px; margin-right: 20px; ">
+        <b>SUBMIT</b></button>
+        <button style=" background-color:rgb(110, 170, 170); border:none; margin-right: 20px;">
+            RESET
+            </button>
+        <button style=" background-color: red; border:none;">
+            <b>CANCEL</b></button>
+    
+    
+</form>

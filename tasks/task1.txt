@@ -1,0 +1,93 @@
+<img src="solar system.jpg" style = "width:20cm; height:5cm; margin-bottom: 0px;">
+<img src="mercury.jpg" style="width:8cm; height:4.5cm; margin-top: 2px; margin-right: 600px;" align="right">
+<h1 >Mercury</h1>
+<p>
+    <b>Smallest planet in our solar system</b>
+</p>
+<p>
+    <b>can't breathe there</b>
+</p>
+<p>
+    <b>a day on Mercury takes 59 days on earth</b>
+</p>
+<img src="venus.jpg" style="width:8cm; height:5cm; margin-right: 600px;" align="right">
+
+<h1 >Venus</h1>
+<p>
+    <b>Hottest planet in our solar system</b>
+</p>
+<p>
+    <b>it rains sulpuric acid</b>
+</p>
+<p>
+    <b>a day on Venus takes 243 days on earth</b>
+</p>
+<p>
+    <b>Day is longer than year</b>
+</p>
+<img src="earth.jpg" style="width:8cm; height:4cm; margin-top: 2px;margin-right: 600px;" align="right">
+<h1 >Earth</h1>
+<p>
+    <b>Suitable for sustaining life</b>
+</p>
+<p>
+    <b>Earths gravity is not uniform</b>
+</p>
+<p>
+    <b>Earth is 4.543 billion years old</b>
+</p>
+<img src="mars.jpg" style="width:8cm; height:4cm; margin-top: 2px;margin-right: 600px;" align="right">
+<h1 >Mars</h1>
+<p>
+    <b>Half size as earth</b>
+</p>
+<p>
+    <b>looks red because it's surface contains iron</b>
+</p>
+<p>
+    <b>a year on Mars takes 687 days on earth</b>
+</p>
+<img src="jupiter.jpg" style="width:8cm; height:4cm; margin-top: 2px;margin-right: 600px;" align="right">
+<h1 >Jupiter</h1>
+<p>
+    <b>Biggest planet in our solar system</b>
+</p>
+<p>
+    <b>it is made up of gases and liquids</b>
+</p>
+<p>
+    <b>a day on Jupiter takes 10 hours on earth</b>
+</p>
+<img src="saturn-54999_640.jpg" style="width:8cm; height:4cm; margin-top: 2px;margin-right: 600px;" align="right">
+<h1 >Saturn</h1>
+<p>
+    <b>you cannot stand on Saturn</b>
+</p>
+<p>
+    <b>saturn cannot float on water because it is made up of gases</b>
+</p>
+<p>
+    <b>a day on Saturn takes 10 hours on earth</b>
+</p>
+<img src="uranus.jpg" style="width:8cm; height:4cm; margin-top: 2px; margin-right: 600px;" align="right">
+<h1 >Uranus</h1>
+<p>
+    <b>coldest planet in our solar system</b>
+</p>
+<p>
+    <b>reffered as ice agent</b>
+</p>
+<p>
+    <b>a day on uranus take 17.2 hours on earth</b>
+</p>
+<img src="neptune-5568916_1280.png" style="width:8cm; height:4cm; margin-top: 2px; margin-right: 600px;" align="right">
+<h1 >Neptune</h1>
+<p>
+    <b>four times wider than Earth</b>
+</p>
+<p>
+    <b>Neptune has the strongest winds in our solar system</b>
+</p>
+<p>
+    <b>a day on Neptunetakes 16 hours on earth</b>
+</p>
