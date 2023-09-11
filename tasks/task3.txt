@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .school
+    {
+        display:grid;
+        width:300px;
+        background-color: white;
+    }
+    .Intermediate
+    {
+        display:grid;
+        width:300px;
+        background-color: white;
+    } 
+    .current
+    {
+        display:grid;
+        width:300px;
+        background-color: white;
+    }
+    .container
+    {
+        display:grid;
+     
+        place-items: center;
+        grid-template-columns: 1fr 1fr;
+        background-color: lavender;
+        margin-bottom: 0;
+
+    }
+    .first
+    {
+        display:inline-block;
+        margin-right: ;
+    }
+    .second
+    {
+        display:grid;
+        width:400px;
+        align-items: top;
+        margin-top: 0px;
+    }]
+    .container2
+    {
+        background-color: lavender;
+        width:100px
+    }
+          
+        </style>
+<body>
+<div class="container">
+<div class="first">
+    <p>
+        <b>Name:B.Kavya</b></p>
+    </p>
+    <p> <b>rollno:21691A0577</b></p>
+    <p><b> Email:kavyareedy@gmail.com</b></p>
+    <p><b>contact no:9876543210</b></p>
+    <div>
+        <h2 style="font-weight: bold; color:purple">
+            EDUCATION</h2>
+    </div>
+    <div class="school">
+        <h2 style="margin-bottom: 0;">2019</h2>
+        <p style="margin-top: 0; line-height: 18px;">
+            completed my schooling at sri chaitanya english medium school</p>
+    </div>
+    <p>  
+    </p>
+    <div class="Intermediate">
+        <h2 style="margin-bottom: 0;">2019-2021</h2>
+        <p style="margin-top: 0; line-height: 18px;">completd my intermediate at sri chaitanya mahila junior collage</p>
+
+    </div>
+    <p>
+            
+    </p>
+    <div class="current">
+        <h2 style="margin-bottom: 0;">present</h2>
+        <p  style="margin-top: 0; line-height: 18px; ">currently pursuing my btech at madanapalle institute of technology and science in the stream of cse</p>
+        
+    </div>
+    </div>
+<div class="container">
+    <div class="first">
+        <div class="school">
+            <h2 style="margin-bottom: 0;" >
+                carrer objective
+            </h2>
+            <p style="margin-top: 3px; line-height: 18px;"> To make use of my interpersonal skills to achieve goals of a company that focuses on customer satisfaction and customer experience</p>
+        </div>
+        <p>
+
+        </p>
+        <div class="school">
+            <h2 style="margin-bottom: 0;"> skill set</h2>
+               <ul style="margin-top: 4px;">
+                <li>java</li>
+                <li>c</li>
+                <li>sql</li>
+               </ul>
+
+        </div>
+        <p>  
+        </p>
+        <div class="Intermediate">
+            <h2 style="margin-bottom: 0;">certifications</h2>
+            <ul>
+                <li>certified from course-era for google data analytics</li>
+                <li>certified from microsoft for power BI data analysit</li>
+                <li> certified from NPTEL for softskills training</li>
+
+            </ul>
+           
+    
+        </div>
+        <p>
+                
+        </p>
+        <div class="current">
+            <h2 style="margin-bottom: 0;">Internships</h2>
+            <ul>
+                <li>completed an internship for internpe company in the domain of java</li>
+                <li>completed an internship for upskill campus company in the domain of python</li>
+                <li>completed an internship for oasis company in the domain of data science</li>
+            </ul>
+        </div>
+        <p>
+
+        </p>
+
+        </div>
+        
+    </div>
+    </div>
+    <div class="container2">
+        <h2>Declaration</h2>
+    <h4>I hereby declare that the information furnished above is true to best of my knowledge</h4>    </div>
+    <p>B.Kavya</p>
+</body>
+</html>
