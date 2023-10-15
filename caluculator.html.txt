@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .a{
+        height:1000px;
+        width:1000px;
+        background-color: whitesmoke;
+        display:grid;
+        grid-template-columns: 1fr;
+        
+    }
+    .b{
+        height:450px;
+        width:300px;
+        background-color: white;
+        display:grid;
+        margin-left: 250px;
+        margin-top: 100px;
+      
+        
+    }
+   
+    .p
+    {
+        color:greenyellow;
+        font-size: 30px;
+        margin-left: 70px;
+    }
+    .ab{
+        padding-top: 40px;
+        padding-right:250px;
+        margin-left: 25px;
+        margin-bottom: 20px;
+        background-color:bisque
+    }
+    
+    .first{
+        margin-left: 25px;
+        padding-top: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 15px;
+        background-color: rgb(179, 232, 232);
+    }
+    .firsts{
+        margin-left: 25px;
+        padding-top: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 15px;
+        background-color: rgb(245, 183, 183);
+    }
+    .firstx{
+        margin-left: 25px;
+        padding-top: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 15px;
+        background-color: lavender;
+    }
+
+</style>
+<body>
+    <div class="a">
+        <div class="b">
+            <div class="c">
+                  <p class="p">Caluculator</p>
+
+                  <button class="ab">
+                      <div class="x"> 
+                                   <button class="first">   1 </button>   
+                                   <button class="first">  2</button> 
+                                   <button class="first">    3 </button>
+                                    <button class="firsts">     + </button>
+                                  <p> </p>
+                                    <button class="first">   4 </button>   
+                                    <button class="first">  5</button> 
+                                    <button class="first">    6 </button>
+                                    <button class="firsts">     - </button>
+                             <p> </p>
+                             <button class="first">   7 </button>   
+                                   <button class="first">  8</button> 
+                                   <button class="first">    9 </button>
+                                    <button class="firsts">     %</button>
+                                    <p></p>
+                                    <button class="firstx">   = </button>   
+                                   <button class="firstx">  C</button> 
+                                   <button class="firstx">  Ac   </button>
+                                    <button class="firsts">     * </button>
+                            </div>
+                            <div class="x"> 
+                 </div>
+            </div>
+            
+        </div>                    
+            
+            
+    </div>
+</body>
+</html>
